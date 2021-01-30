@@ -1,0 +1,66 @@
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\bin\Debug\BPresentacion.exe.config
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\bin\Debug\BPresentacion.exe
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\bin\Debug\BPresentacion.pdb
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\obj\Debug\BPresentacion.csprojAssemblyReference.cache
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\obj\Debug\BPresentacion.Properties.Resources.resources
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.GenerateResource.cache
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\obj\Debug\BPresentacion.exe
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\obj\Debug\BPresentacion.pdb
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\obj\Debug\BPresentacion.FrmPrincipal.resources
+D:\proyecto oficial\Balanza\BPresentacion\bin\Debug\BPresentacion.exe.config
+D:\proyecto oficial\Balanza\BPresentacion\bin\Debug\BPresentacion.exe
+D:\proyecto oficial\Balanza\BPresentacion\bin\Debug\BPresentacion.pdb
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csprojAssemblyReference.cache
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.FrmPrincipal.resources
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.Properties.Resources.resources
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.GenerateResource.cache
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.CoreCompileInputs.cache
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.exe
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.pdb
+D:\proyecto oficial\Balanza\BPresentacion\bin\Debug\BControladores.dll
+D:\proyecto oficial\Balanza\BPresentacion\bin\Debug\BDatos.dll
+D:\proyecto oficial\Balanza\BPresentacion\bin\Debug\BControladores.pdb
+D:\proyecto oficial\Balanza\BPresentacion\bin\Debug\BDatos.pdb
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.CopyComplete
+D:\proyecto_oficial\Balanza\BPresentacion\bin\Debug\BPresentacion.exe.config
+D:\proyecto_oficial\Balanza\BPresentacion\bin\Debug\BPresentacion.exe
+D:\proyecto_oficial\Balanza\BPresentacion\bin\Debug\BPresentacion.pdb
+D:\proyecto_oficial\Balanza\BPresentacion\bin\Debug\BControladores.dll
+D:\proyecto_oficial\Balanza\BPresentacion\bin\Debug\BDatos.dll
+D:\proyecto_oficial\Balanza\BPresentacion\bin\Debug\BControladores.pdb
+D:\proyecto_oficial\Balanza\BPresentacion\bin\Debug\BDatos.pdb
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csprojAssemblyReference.cache
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.FrmPrincipal.resources
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.Properties.Resources.resources
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.GenerateResource.cache
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.CoreCompileInputs.cache
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.CopyComplete
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.exe
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.pdb
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\bin\Debug\BPresentacion.exe.config
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\bin\Debug\BPresentacion.exe
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\bin\Debug\BPresentacion.pdb
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csprojAssemblyReference.cache
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.FrmPrincipal.resources
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Properties.Resources.resources
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.GenerateResource.cache
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.CoreCompileInputs.cache
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.CopyComplete
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.exe
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.pdb
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmTickets.resources
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\bin\Debug\BModelo.dll
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\bin\Debug\BModelo.pdb
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmTicketPendiente.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.FrmPrincipal.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmTicketPendiente.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmTickets.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Properties.Resources.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.exe
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Inicio.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Reports.resources
