@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.IO;
 
 using System.Drawing;
-//using System.Drawing.Printing;
+using System.Drawing.Printing;
 
 using BDatos;
 using System.Data;
@@ -16,8 +16,8 @@ namespace BModelo
 {
     public class Ticket
     {
-        //public static System.Drawing.Font printFont;
-            public static StreamReader streamToPrint;
+        public static System.Drawing.Font printFont;
+        public static StreamReader streamToPrint;
 
         public class CreaTicket
         {

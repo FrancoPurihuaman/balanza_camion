@@ -233,7 +233,7 @@
             // 
             this.txtPesoEntrada.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.txtPesoEntrada.BackColor = System.Drawing.Color.OliveDrab;
-            this.txtPesoEntrada.Font = new System.Drawing.Font("Microsoft Sans Serif", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPesoEntrada.Font = new System.Drawing.Font("DS-Digital", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPesoEntrada.Location = new System.Drawing.Point(513, 107);
             this.txtPesoEntrada.Multiline = true;
             this.txtPesoEntrada.Name = "txtPesoEntrada";
@@ -246,7 +246,7 @@
             // 
             this.txtPesoSalida.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.txtPesoSalida.BackColor = System.Drawing.Color.OliveDrab;
-            this.txtPesoSalida.Font = new System.Drawing.Font("Microsoft Sans Serif", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPesoSalida.Font = new System.Drawing.Font("DS-Digital", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPesoSalida.Location = new System.Drawing.Point(513, 244);
             this.txtPesoSalida.Multiline = true;
             this.txtPesoSalida.Name = "txtPesoSalida";
